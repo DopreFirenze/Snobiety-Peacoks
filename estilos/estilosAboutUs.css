@@ -1,0 +1,76 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+nav {
+    background-color: #250B28;
+}
+
+nav a {
+    color: white;
+    background-color: #250B28
+}
+
+button i {
+    color: white;
+}
+
+ul li {
+    color: white;
+}
+
+.divIndex{
+    background-color: darkgrey;
+    display: flex;
+    height: 600px;
+}
+
+.item{
+    background-color: orange;
+    border: 2px solid black;
+    text-align: center;
+    font-size: 25px;
+    min-height: 60px;
+}
+
+h4{
+    color: white;
+    background-color: black;
+}
+
+.item1{
+    background-image: url(../multimedia/TheBigLeader.png);
+    background-size: contain;
+}
+
+.item2{
+    background-image: url(../multimedia/Non-sleeper.png);
+    background-size: cover;
+}
+
+.item3{
+    background-image: url(../multimedia/Alchemist.png);
+    background-size: cover;
+}
+
+.item4{
+    background-image: url(../multimedia/peacock-CTO.png);
+    background-size: cover;
+}
+
+footer{
+    font-size: 20px;
+    font-family: fantasy;
+    display: flex;
+    margin: 5px;
+}
+
+fieldset{
+    border: 3px solid darkred;
+}
+

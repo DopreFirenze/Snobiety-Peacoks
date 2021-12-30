@@ -1,0 +1,25 @@
+nav {
+    background-color: #250B28;
+}
+
+nav a {
+    color: white;
+    background-color: #250B28
+}
+
+span {
+    color: white;
+}
+
+button i {
+    color: white;
+}
+
+ul li {
+    color: white;
+}
+
+img{
+    width: 100%;
+    background-color: #250B28;
+}
